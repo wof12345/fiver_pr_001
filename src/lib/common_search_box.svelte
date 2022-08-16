@@ -8,7 +8,22 @@
 	let currentAvailableDummyData = [
 		{
 			itemImg: 'folder.svg',
-			itemText: 'Workflow inc. / Website redesign',
+			itemText: 'Visage',
+			itemType: 'recent'
+		},
+		{
+			itemImg: 'folder.svg',
+			itemText: 'Mymensua',
+			itemType: 'recent'
+		},
+		{
+			itemImg: 'folder.svg',
+			itemText: 'Refddog',
+			itemType: 'recent'
+		},
+		{
+			itemImg: 'folder.svg',
+			itemText: 'LIsar',
 			itemType: 'recent'
 		},
 		{
@@ -18,22 +33,7 @@
 		},
 		{
 			itemImg: 'folder.svg',
-			itemText: 'Workflow inc. / Website redesign',
-			itemType: 'recent'
-		},
-		{
-			itemImg: 'folder.svg',
-			itemText: 'Workflow inc. / Website redesign',
-			itemType: 'recent'
-		},
-		{
-			itemImg: 'folder.svg',
-			itemText: 'Workflow inc. / Website redesign',
-			itemType: 'recent'
-		},
-		{
-			itemImg: 'folder.svg',
-			itemText: 'Workflow inc. / Website redesign',
+			itemText: 'Liasir',
 			itemType: 'recent'
 		}
 	];
